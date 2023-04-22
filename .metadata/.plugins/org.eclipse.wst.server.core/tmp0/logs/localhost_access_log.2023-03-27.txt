@@ -1,0 +1,8 @@
+127.0.0.1 - - [27/Mar/2023:17:21:18 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [27/Mar/2023:17:21:18 +0530] "GET /Simple_Dynamic_Web_Project/ HTTP/1.1" 404 782
+127.0.0.1 - - [27/Mar/2023:17:30:28 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [27/Mar/2023:17:30:30 +0530] "GET /SpringMVCminimalsetup/ HTTP/1.1" 200 258
+0:0:0:0:0:0:0:1 - - [27/Mar/2023:17:30:35 +0530] "GET /SpringMVCminimalsetup/displayname?firstName=Mahendra HTTP/1.1" 200 139
+127.0.0.1 - - [27/Mar/2023:17:30:59 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [27/Mar/2023:17:31:00 +0530] "GET /SpringMVCminimalsetup/ HTTP/1.1" 200 258
+0:0:0:0:0:0:0:1 - - [27/Mar/2023:17:31:04 +0530] "GET /SpringMVCminimalsetup/displayname?firstName=Maxx HTTP/1.1" 200 275
